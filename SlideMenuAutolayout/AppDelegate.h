@@ -2,8 +2,8 @@
 //  AppDelegate.h
 //  SlideMenuAutolayout
 //
-//  Created by App Partner on 11/12/14.
-//  Copyright (c) 2014 App Partner. All rights reserved.
+//  Created by Joe Levin on 11/12/14.
+//  Copyright (c) 2014 Joe Levin. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
@@ -12,6 +12,4 @@
 
 @property (strong, nonatomic) UIWindow *window;
 
-
 @end
-
